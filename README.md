@@ -28,7 +28,9 @@ For executing individual C# files, I use the [dotnet-exec tool](https://github.c
     ```
 3. Navigate to the directory containing the C# file you wish to run.
 4. Execute the file using:
-
+    ```powershell
+    dotnet-exec <filename>
+    ```
 This setup is particularly useful for quickly testing and iterating on solutions.
 
 ## Contributing
