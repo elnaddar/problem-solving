@@ -13,7 +13,8 @@ Here is a list of problems from this sheet along with links to their solutions a
 - **Problem 2: [B. Basic Data Types](./B.%20Basic%20Data%20Types/)** - This problem deals with understanding data types, their sizes in memory, and defference between them.
     - [C++ Solution](./B.%20Basic%20Data%20Types/main.cpp).
     - [C# Solution](./B.%20Basic%20Data%20Types/main.cs).
-    - [Data types table in both langs with their sizes](./B.%20Basic%20Data%20Types/README.md).
+    - [Dart Solution](./B.%20Basic%20Data%20Types/main.dart).
+    - [Data types table in each lang with their sizes](./B.%20Basic%20Data%20Types/README.md).
 
 ## Solution Approach
 
