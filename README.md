@@ -18,11 +18,26 @@ Each problem solution file includes:
 
 Feel free to browse the repository to find solutions to specific problems or explore different solution strategies. If you're working on similar problems and have questions or alternative solutions, you can open an issue to discuss it further.
 
+### Running C# Solutions
+For executing individual C# files, I use the [dotnet-exec tool](https://github.com/WeihanLi/dotnet-exec). This tool allows for the direct execution of C# scripts, making it simpler to test and run snippets of code quickly. To run a C# solution file using this tool, follow these steps:
+
+1. Ensure you have the .NET SDK installed.
+2. Install `dotnet-exec` by running the following command:
+    ```powershell
+    dotnet tool install -g dotnet-exec
+    ```
+3. Navigate to the directory containing the C# file you wish to run.
+4. Execute the file using:
+
+This setup is particularly useful for quickly testing and iterating on solutions.
+
 ## Contributing
 
 Since this is a personal repository mainly for educational and tracking purposes, I am currently not accepting contributions. However, suggestions and discussions are welcome!
 
-
 ## Acknowledgements
 
 Thanks to Codeforces and LeetCode for providing a platform full of rich problems that help in honing programming and analytical skills.
+
+## License
+This project is available under the [MIT License](LICENSE).
