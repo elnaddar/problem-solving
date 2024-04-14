@@ -19,6 +19,12 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./C.%20Simple%20Calculator/main.cpp).
     - [C# Solution](./C.%20Simple%20Calculator/main.cs).
     - [Dart Solution](./C.%20Simple%20Calculator/main.dart).
+- **Problem 4: [D. Difference](./D.%20Difference/)** - This problem deals with understanding numeric data types, their sizes in memory, defference between them, and performing arithmetic operations.
+    - [C++ Solution](./D.%20Difference/main.cpp).
+    - C# Solutions:
+        - [C# Solution With Casting](./D.%20Difference/WithCasting.cs).
+        - [C# Solution Without Casting](./D.%20Difference/WithoutCasting.cs).
+    - [Dart Solution](./D.%20Difference/main.dart).
 
 ## Solution Approach
 
