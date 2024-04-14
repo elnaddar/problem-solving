@@ -25,7 +25,10 @@ Here is a list of problems from this sheet along with links to their solutions a
         - [C# Solution With Casting](./D.%20Difference/WithCasting.cs).
         - [C# Solution Without Casting](./D.%20Difference/WithoutCasting.cs).
     - [Dart Solution](./D.%20Difference/main.dart).
-
+- **Problem 5: [E. Area of a Circle](./E.%20Area%20of%20a%20Circle/)** - This problem deals with understanding numeric data types, their sizes in memory, defference between them, performing arithmetic operations, and controlling how many decimal places in the output.
+    - [C++ Solution](./E.%20Area%20of%20a%20Circle/main.cpp).
+    - [C# Solution](./E.%20Area%20of%20a%20Circle/main.cs).
+    - [Dart Solution](./E.%20Area%20of%20a%20Circle/main.dart).
 ## Solution Approach
 
 Each solution file includes:
