@@ -35,6 +35,10 @@ Here is a list of problems from this sheet along with links to their solutions a
         - [C# Solution 1: better when your data is string](./F.%20Digits%20Summation/sl1.cs).
         - [C# Solution 2: (using modulus) better when your data is long](./F.%20Digits%20Summation/sl2.cs).
     - [Dart Solution](./F.%20Digits%20Summation/main.dart).
+- **Problem 7: [G. Summation from 1 to N](./G.%20Summation%20from%201%20to%20N/)** - This problem deals with understanding numeric data types, their sizes in memory, defference between them, performing arithmetic operations, and I worked on it using bitwise shifting.
+    - [C++ Solution](./G.%20Summation%20from%201%20to%20N/main.cpp).
+    - [C# Solution](./G.%20Summation%20from%201%20to%20N/main.cs).
+    - [Dart Solution](./G.%20Summation%20from%201%20to%20N/main.dart).
 
 ## Solution Approach
 
