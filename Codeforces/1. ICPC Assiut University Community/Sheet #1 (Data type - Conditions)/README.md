@@ -39,6 +39,13 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./G.%20Summation%20from%201%20to%20N/main.cpp).
     - [C# Solution](./G.%20Summation%20from%201%20to%20N/main.cs).
     - [Dart Solution](./G.%20Summation%20from%201%20to%20N/main.dart).
+- **Problem 8: [H. Two numbers](./H.%20Two%20numbers/)** - This problem deals with understanding numeric data types, and their built-in function/methods (floor, ceil, round).
+    - C++ Solutions:
+        - [C++ Solution 1: Implemented my ceil and round functions](./H.%20Two%20numbers/sl1.cpp).
+        - [C++ Solution 2: using built-in ceil and round functions and `printf` for output](./H.%20Two%20numbers/sl2.cpp).
+        - [C++ Solution 3: using `cout` for output](./H.%20Two%20numbers/sl3.cpp).
+    - [C# Solution](./H.%20Two%20numbers/main.cs).
+    - [Dart Solution](./H.%20Two%20numbers/main.dart).
 
 ## Solution Approach
 

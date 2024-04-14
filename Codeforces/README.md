@@ -15,7 +15,7 @@ Each solution file includes:
 
 ## Tracking Progress
 
-- **Total Problems Solved**: `4` 
+- **Total Problems Solved**: `8` 
 
 ## Using This Folder
 
