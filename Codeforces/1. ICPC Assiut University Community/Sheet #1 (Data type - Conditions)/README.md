@@ -29,6 +29,13 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./E.%20Area%20of%20a%20Circle/main.cpp).
     - [C# Solution](./E.%20Area%20of%20a%20Circle/main.cs).
     - [Dart Solution](./E.%20Area%20of%20a%20Circle/main.dart).
+- **Problem 6: [F. Digits Summation](./F.%20Digits%20Summation/)** - This problem deals with understanding numeric data types, their sizes in memory, defference between them, performing arithmetic operations, and working with digits using modulus.
+    - [C++ Solution](./F.%20Digits%20Summation/main.cpp).
+    - C# Solutions:
+        - [C# Solution 1: better when your data is string](./F.%20Digits%20Summation/sl1.cs).
+        - [C# Solution 2: (using modulus) better when your data is long](./F.%20Digits%20Summation/sl2.cs).
+    - [Dart Solution](./F.%20Digits%20Summation/main.dart).
+
 ## Solution Approach
 
 Each solution file includes:
