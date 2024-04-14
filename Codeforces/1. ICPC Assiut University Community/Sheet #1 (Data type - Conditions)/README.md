@@ -15,6 +15,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C# Solution](./B.%20Basic%20Data%20Types/main.cs).
     - [Dart Solution](./B.%20Basic%20Data%20Types/main.dart).
     - [Data types table in each lang with their sizes](./B.%20Basic%20Data%20Types/README.md).
+- **Problem 3: [C. Simple Calculator](./C.%20Simple%20Calculator/)** - This problem deals with understanding numeric data types, their sizes in memory, defference between them, and performing arithmetic operations.
+    - [C++ Solution](./C.%20Simple%20Calculator/main.cpp).
+    - [C# Solution](./C.%20Simple%20Calculator/main.cs).
+    - [Dart Solution](./C.%20Simple%20Calculator/main.dart).
 
 ## Solution Approach
 
