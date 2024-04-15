@@ -46,6 +46,10 @@ Here is a list of problems from this sheet along with links to their solutions a
         - [C++ Solution 3: using `cout` for output](./H.%20Two%20numbers/sl3.cpp).
     - [C# Solution](./H.%20Two%20numbers/main.cs).
     - [Dart Solution](./H.%20Two%20numbers/main.dart).
+- **Problem 9: [I. Welcome for you with Conditions](./I.%20Welcome%20for%20you%20with%20Conditions/)** - This problem deals with understanding conditions.
+    - [C++ Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.cpp).
+    - [C# Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.cs).
+    - [Dart Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.dart).
 
 ## Solution Approach
 
