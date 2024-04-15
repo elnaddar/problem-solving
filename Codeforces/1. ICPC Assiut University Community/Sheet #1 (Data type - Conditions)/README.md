@@ -50,6 +50,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.cpp).
     - [C# Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.cs).
     - [Dart Solution](./I.%20Welcome%20for%20you%20with%20Conditions/main.dart).
+- **Problem 10: [J. Multiples](./J.%20Multiples/)** - This problem deals with understanding conditions and logical operators.
+    - [C++ Solution](./J.%20Multiples/main.cpp).
+    - [C# Solution](./J.%20Multiples/main.cs).
+    - [Dart Solution](./J.%20Multiples/main.dart).
 
 ## Solution Approach
 
