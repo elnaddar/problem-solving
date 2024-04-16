@@ -58,6 +58,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./K.%20Max%20and%20Min/main.cpp).
     - [C# Solution](./K.%20Max%20and%20Min/main.cs).
     - [Dart Solution](./K.%20Max%20and%20Min/main.dart).
+- **Problem 12: [L. The Brothers](./L.%20The%20Brothers/)** - This problem deals with understanding conditions and comparing strings.
+    - [C++ Solution](./L.%20The%20Brothers/main.cpp).
+    - [C# Solution](./L.%20The%20Brothers/main.cs).
+    - [Dart Solution](./L.%20The%20Brothers/main.dart).
 
 ## Solution Approach
 
