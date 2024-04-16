@@ -54,6 +54,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./J.%20Multiples/main.cpp).
     - [C# Solution](./J.%20Multiples/main.cs).
     - [Dart Solution](./J.%20Multiples/main.dart).
+- **Problem 11: [K. Max and Min](./K.%20Max%20and%20Min/)** - This problem deals with understanding conditions and built-in functions/methods.
+    - [C++ Solution](./K.%20Max%20and%20Min/main.cpp).
+    - [C# Solution](./K.%20Max%20and%20Min/main.cs).
+    - [Dart Solution](./K.%20Max%20and%20Min/main.dart).
 
 ## Solution Approach
 
