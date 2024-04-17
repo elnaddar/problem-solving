@@ -66,6 +66,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.cpp).
     - [C# Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.cs).
     - [Dart Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.dart).
+- **Problem 14: [N. Char](./N.%20Char/)** - This problem deals with understanding conditions, comparing characters, working with their ASCII values.
+    - [C++ Solution](./N.%20Char/main.cpp).
+    - [C# Solution](./N.%20Char/main.cs).
+    - [Dart Solution](./N.%20Char/main.dart).
 
 ## Solution Approach
 
