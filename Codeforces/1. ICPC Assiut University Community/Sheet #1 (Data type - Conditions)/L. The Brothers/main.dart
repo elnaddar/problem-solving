@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   String s1 = stdin.readLineSync()!.split(" ")[1];
