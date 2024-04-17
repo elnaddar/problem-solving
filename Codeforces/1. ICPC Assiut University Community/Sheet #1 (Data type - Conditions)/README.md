@@ -62,6 +62,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./L.%20The%20Brothers/main.cpp).
     - [C# Solution](./L.%20The%20Brothers/main.cs).
     - [Dart Solution](./L.%20The%20Brothers/main.dart).
+- **Problem 13: [M. Capital or Small or Digit](./M.%20Capital%20or%20Small%20or%20Digit/)** - This problem deals with understanding conditions and comparing characters.
+    - [C++ Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.cpp).
+    - [C# Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.cs).
+    - [Dart Solution](./M.%20Capital%20or%20Small%20or%20Digit/main.dart).
 
 ## Solution Approach
 
