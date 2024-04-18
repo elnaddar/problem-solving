@@ -70,7 +70,7 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./N.%20Char/main.cpp).
     - [C# Solution](./N.%20Char/main.cs).
     - [Dart Solution](./N.%20Char/main.dart).
-- **Problem 15: [N. Char](./O.%20Calculator/)** - This problem deals with understanding conditions, comparing characters, and in c# and dart it deals with handling input with no spaces.
+- **Problem 15: [O. Calculator](./O.%20Calculator/)** - This problem deals with understanding conditions, comparing characters, and in c# and dart it deals with handling input with no spaces.
     - [C++ Solution](./O.%20Calculator/main.cpp).
     - [C# Solution](./O.%20Calculator/main.cs).
     - [Dart Solution](./O.%20Calculator/main.dart).
