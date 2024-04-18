@@ -74,6 +74,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./O.%20Calculator/main.cpp).
     - [C# Solution](./O.%20Calculator/main.cs).
     - [Dart Solution](./O.%20Calculator/main.dart).
+- **Problem 16: [P. First digit !](./P.%20First%20digit%20!/)** - This problem deals with understanding conditions, dealing with int digits.
+    - [C++ Solution](./P.%20First%20digit%20!/main.cpp).
+    - [C# Solution](./P.%20First%20digit%20!/main.cs).
+    - [Dart Solution](./P.%20First%20digit%20!/main.dart).
 
 ## Solution Approach
 
