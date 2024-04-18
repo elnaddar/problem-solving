@@ -74,10 +74,14 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./O.%20Calculator/main.cpp).
     - [C# Solution](./O.%20Calculator/main.cs).
     - [Dart Solution](./O.%20Calculator/main.dart).
-- **Problem 16: [P. First digit !](./P.%20First%20digit%20!/)** - This problem deals with understanding conditions, dealing with int digits.
+- **Problem 16: [P. First digit !](./P.%20First%20digit%20!/)** - This problem deals with understanding conditions, and dealing with int digits.
     - [C++ Solution](./P.%20First%20digit%20!/main.cpp).
     - [C# Solution](./P.%20First%20digit%20!/main.cs).
     - [Dart Solution](./P.%20First%20digit%20!/main.dart).
+- **Problem 17: [Q. Coordinates of a Point](./Q.%20Coordinates%20of%20a%20Point/)** - This problem deals with understanding multiple conditions, and basics of 2D plan.
+    - [C++ Solution](./Q.%20Coordinates%20of%20a%20Point/main.cpp).
+    - [C# Solution](./Q.%20Coordinates%20of%20a%20Point/main.cs).
+    - [Dart Solution](./Q.%20Coordinates%20of%20a%20Point/main.dart).
 
 ## Solution Approach
 
