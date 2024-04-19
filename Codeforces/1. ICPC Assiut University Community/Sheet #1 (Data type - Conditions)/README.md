@@ -82,6 +82,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./Q.%20Coordinates%20of%20a%20Point/main.cpp).
     - [C# Solution](./Q.%20Coordinates%20of%20a%20Point/main.cs).
     - [Dart Solution](./Q.%20Coordinates%20of%20a%20Point/main.dart).
+- **Problem 17: [R. Age in Days](./R.%20Age%20in%20Days/)** - This problem deals with understanding division and remainder.
+    - [C++ Solution](./R.%20Age%20in%20Days/main.cpp).
+    - [C# Solution](./R.%20Age%20in%20Days/main.cs).
+    - [Dart Solution](./R.%20Age%20in%20Days/main.dart).
 
 ## Solution Approach
 
