@@ -90,6 +90,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./S.%20Interval/main.cpp).
     - [C# Solution](./S.%20Interval/main.cs).
     - [Dart Solution](./S.%20Interval/main.dart).
+- **Problem 20: [T. Sort Numbers](./T.%20Sort%20Numbers/)** - This problem deals with understanding condition.
+    - [C++ Solution](./T.%20Sort%20Numbers/main.cpp).
+    - [C# Solution](./T.%20Sort%20Numbers/main.cs).
+    - [Dart Solution](./T.%20Sort%20Numbers/main.dart).
 
 ## Solution Approach
 
