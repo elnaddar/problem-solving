@@ -98,6 +98,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./U.%20Float%20or%20int/main.cpp).
     - [C# Solution](./U.%20Float%20or%20int/main.cs).
     - [Dart Solution](./U.%20Float%20or%20int/main.dart).
+- **Problem 22: [V. Comparison](./V.%20Comparison/)** - This problem deals with understanding conditions.
+    - [C++ Solution](./V.%20Comparison/main.cpp).
+    - [C# Solution](./V.%20Comparison/main.cs).
+    - [Dart Solution](./V.%20Comparison/main.dart).
 
 ## Solution Approach
 
