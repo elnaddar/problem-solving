@@ -94,6 +94,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./T.%20Sort%20Numbers/main.cpp).
     - [C# Solution](./T.%20Sort%20Numbers/main.cs).
     - [Dart Solution](./T.%20Sort%20Numbers/main.dart).
+- **Problem 21: [U. Float or int](./U.%20Float%20or%20int/)** - This problem deals with understanding conditions, and dealing with int and float.
+    - [C++ Solution](./U.%20Float%20or%20int/main.cpp).
+    - [C# Solution](./U.%20Float%20or%20int/main.cs).
+    - [Dart Solution](./U.%20Float%20or%20int/main.dart).
 
 ## Solution Approach
 
