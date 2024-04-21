@@ -106,6 +106,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./W.%20Mathematical%20Expression/main.cpp).
     - [C# Solution](./W.%20Mathematical%20Expression/main.cs).
     - [Dart Solution](./W.%20Mathematical%20Expression/main.dart).
+- **Problem 24: [X. Two intervals](./X.%20Two%20intervals/)** - This problem deals with understanding condition and intervals.
+    - [C++ Solution](./X.%20Two%20intervals/main.cpp).
+    - [C# Solution](./X.%20Two%20intervals/main.cs).
+    - [Dart Solution](./X.%20Two%20intervals/main.dart).
 
 ## Solution Approach
 
