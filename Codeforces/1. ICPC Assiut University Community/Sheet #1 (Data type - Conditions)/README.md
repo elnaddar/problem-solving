@@ -102,6 +102,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./V.%20Comparison/main.cpp).
     - [C# Solution](./V.%20Comparison/main.cs).
     - [Dart Solution](./V.%20Comparison/main.dart).
+- **Problem 23: [W. Mathematical Expression](./W.%20Mathematical%20Expression/)** - This problem deals with understanding conditions and taking input.
+    - [C++ Solution](./W.%20Mathematical%20Expression/main.cpp).
+    - [C# Solution](./W.%20Mathematical%20Expression/main.cs).
+    - [Dart Solution](./W.%20Mathematical%20Expression/main.dart).
 
 ## Solution Approach
 
