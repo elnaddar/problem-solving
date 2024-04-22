@@ -11,11 +11,11 @@ Each solution file includes:
 
 ## Sheets
 - [ICPC Assiut University Community](./1.%20ICPC%20Assiut%20University%20Community/)
-    - [Sheet #1 (Data type - Conditions)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%231%20(Data%20type%20-%20Conditions)/)
+    - [x] [Sheet #1 (Data type - Conditions)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%231%20(Data%20type%20-%20Conditions)/)
 
 ## Tracking Progress
 
-- **Total Problems Solved**: `17` 
+- **Total Problems Solved**: `26` 
 
 ## Using This Folder
 
