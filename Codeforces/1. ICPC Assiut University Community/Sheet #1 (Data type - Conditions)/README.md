@@ -114,6 +114,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./Y.%20The%20last%202%20digits/main.cpp).
     - [C# Solution](./Y.%20The%20last%202%20digits/main.cs).
     - [Dart Solution](./Y.%20The%20last%202%20digits/main.dart).
+- **Problem 26: [Z. Hard Compare](./Z.%20Hard%20Compare/)** - This problem deals with understanding overflow, and logs.
+    - [C++ Solution](./Z.%20Hard%20Compare/main.cpp).
+    - [C# Solution](./Z.%20Hard%20Compare/main.cs).
+    - [Dart Solution](./Z.%20Hard%20Compare/main.dart).
 
 ## Solution Approach
 
