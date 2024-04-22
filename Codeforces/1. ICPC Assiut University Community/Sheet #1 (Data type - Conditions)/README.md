@@ -110,6 +110,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./X.%20Two%20intervals/main.cpp).
     - [C# Solution](./X.%20Two%20intervals/main.cs).
     - [Dart Solution](./X.%20Two%20intervals/main.dart).
+- **Problem 25: [Y. The last 2 digits](./Y.%20The%20last%202%20digits/)** - This problem deals with understanding overflow, modulas, and formating numbers in output.
+    - [C++ Solution](./Y.%20The%20last%202%20digits/main.cpp).
+    - [C# Solution](./Y.%20The%20last%202%20digits/main.cs).
+    - [Dart Solution](./Y.%20The%20last%202%20digits/main.dart).
 
 ## Solution Approach
 
