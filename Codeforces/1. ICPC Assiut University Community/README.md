@@ -9,7 +9,7 @@ Each sheet focuses on a specific topic or set of topics within competitive progr
 ### Available Sheets
 
 - [x] [Sheet #1 (Data type - Conditions)](./Sheet%20%231%20(Data%20type%20-%20Conditions)/) - Focuses on fundamental data types and conditional statements.
-- [ ] [Contest #1 (Data type - Conditions)](./Contest%20#1/) *(In Progress)* - Focuses on fundamental data types and conditional statements.
+- [ ] [Contest #1 (Data type - Conditions)](./Contest%20%231/) *(In Progress)* - Focuses on fundamental data types and conditional statements.
 
 ## Using These Solutions
 
