@@ -26,6 +26,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./E.%20Interval%20Sweep/main.cpp).
     - [C# Solution](./E.%20Interval%20Sweep/main.cs).
     - [Dart Solution](./E.%20Interval%20Sweep/main.dart).
+- **Problem 6: [F. Adding Bits](./F.%20Adding%20Bits/)** - This problem deals with understanding bitwise operations.
+    - [C++ Solution](./F.%20Adding%20Bits/main.cpp).
+    - [C# Solution](./F.%20Adding%20Bits/main.cs).
+    - [Dart Solution](./F.%20Adding%20Bits/main.dart).
 
 ## Solution Approach
 
