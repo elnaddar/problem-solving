@@ -24,8 +24,8 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [Dart Solution](./D.%20Ali%20Baba%20and%20Puzzles/main.dart).
 - **Problem 5: [E. Interval Sweep](./E.%20Interval%20Sweep/)** - This problem deals with understanding intervals, and math basics.
     - [C++ Solution](./E.%20Interval%20Sweep/main.cpp).
-    <!-- - [C# Solution](./E.%20Interval%20Sweep/main.cs).
-    - [Dart Solution](./E.%20Interval%20Sweep/main.dart). -->
+    - [C# Solution](./E.%20Interval%20Sweep/main.cs).
+    - [Dart Solution](./E.%20Interval%20Sweep/main.dart).
 
 ## Solution Approach
 
