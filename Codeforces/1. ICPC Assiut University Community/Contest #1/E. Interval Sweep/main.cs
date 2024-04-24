@@ -4,7 +4,7 @@ using System;
 
 namespace Codeforces.Assuit.Contest1
 {
-    class ProblemD
+    class ProblemE
     {
         static void Main(string[] args)
         {
