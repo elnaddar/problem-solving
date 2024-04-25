@@ -30,6 +30,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./F.%20Adding%20Bits/main.cpp).
     - [C# Solution](./F.%20Adding%20Bits/main.cs).
     - [Dart Solution](./F.%20Adding%20Bits/main.dart).
+- **Problem 8: [H. Data Type Guessing](./H.%20Data%20Type%20Guessing/)** - This problem deals with understanding bitwise operations.
+    - [C++ Solution](./H.%20Data%20Type%20Guessing/main.cpp).
+    - [C# Solution](./H.%20Data%20Type%20Guessing/main.cs).
+    - [Dart Solution](./H.%20Data%20Type%20Guessing/main.dart).
 
 ## Solution Approach
 
