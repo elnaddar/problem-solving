@@ -38,6 +38,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./H.%20Data%20Type%20Guessing/main.cpp).
     - [C# Solution](./H.%20Data%20Type%20Guessing/main.cs).
     - [Dart Solution](./H.%20Data%20Type%20Guessing/main.dart).
+- **Problem 9: [I. Lucky Numbers](./I.%20Lucky%20Numbers/)** - This problem deals with understanding remainders.
+    - [C++ Solution](./I.%20Lucky%20Numbers/main.cpp).
+    - [C# Solution](./I.%20Lucky%20Numbers/main.cs).
+    - [Dart Solution](./I.%20Lucky%20Numbers/main.dart).
 
 ## Solution Approach
 
