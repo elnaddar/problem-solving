@@ -10,6 +10,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./A.%201%20to%20N/main.cpp).
     - [C# Solution](./A.%201%20to%20N/main.cs).
     - [Dart Solution](./A.%201%20to%20N/main.dart).
+- **Problem 1: [B. Even Numbers](./B.%20Even%20Numbers/)** - This problem deals with understanding taking user input and giving a specific output.
+    - [C++ Solution](./B.%20Even%20Numbers/main.cpp).
+    - [C# Solution](./B.%20Even%20Numbers/main.cs).
+    - [Dart Solution](./B.%20Even%20Numbers/main.dart).
 
 ## Solution Approach
 
