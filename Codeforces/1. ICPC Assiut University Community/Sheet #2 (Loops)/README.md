@@ -10,10 +10,14 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./A.%201%20to%20N/main.cpp).
     - [C# Solution](./A.%201%20to%20N/main.cs).
     - [Dart Solution](./A.%201%20to%20N/main.dart).
-- **Problem 1: [B. Even Numbers](./B.%20Even%20Numbers/)** - This problem deals with understanding taking user input and giving a specific output.
+- **Problem 2: [B. Even Numbers](./B.%20Even%20Numbers/)** - This problem deals with understanding taking user input and giving a specific output.
     - [C++ Solution](./B.%20Even%20Numbers/main.cpp).
     - [C# Solution](./B.%20Even%20Numbers/main.cs).
     - [Dart Solution](./B.%20Even%20Numbers/main.dart).
+- **Problem 3: [C. Even, Odd, Positive and Negative](./C.%20Even,%20Odd,%20Positive%20and%20Negative/)** - This problem deals with understanding taking multiple user input and working with even, odd, positive, negative numbers.
+    - [C++ Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.cpp).
+    - [C# Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.cs).
+    - [Dart Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.dart).
 
 ## Solution Approach
 
