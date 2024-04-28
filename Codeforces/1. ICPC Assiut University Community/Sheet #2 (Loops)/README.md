@@ -22,6 +22,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./D.%20Fixed%20Password/main.cpp).
     - [C# Solution](./D.%20Fixed%20Password/main.cs).
     - [Dart Solution](./D.%20Fixed%20Password/main.dart).
+- **Problem 5: [E. Max](./E.%20Max/)** - This problem deals with understanding taking multiple user input.
+    - [C++ Solution](./E.%20Max/main.cpp).
+    - [C# Solution](./E.%20Max/main.cs).
+    - [Dart Solution](./E.%20Max/main.dart).
 
 ## Solution Approach
 
