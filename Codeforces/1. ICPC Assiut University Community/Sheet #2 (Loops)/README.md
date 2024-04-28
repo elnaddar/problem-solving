@@ -18,6 +18,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.cpp).
     - [C# Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.cs).
     - [Dart Solution](./C.%20Even,%20Odd,%20Positive%20and%20Negative/main.dart).
+- **Problem 4: [D. Fixed Password](./D.%20Fixed%20Password/)** - This problem deals with understanding taking multiple user input.
+    - [C++ Solution](./D.%20Fixed%20Password/main.cpp).
+    - [C# Solution](./D.%20Fixed%20Password/main.cs).
+    - [Dart Solution](./D.%20Fixed%20Password/main.dart).
 
 ## Solution Approach
 
