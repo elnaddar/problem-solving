@@ -30,6 +30,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./F.%20Multiplication%20table/main.cpp).
     - [C# Solution](./F.%20Multiplication%20table/main.cs).
     - [Dart Solution](./F.%20Multiplication%20table/main.dart).
+- **Problem 7: [G. Factorial](./G.%20Factorial/)** - This problem deals with understanding taking multiple user input and implementing factorial.
+    - [C++ Solution](./G.%20Factorial/main.cpp).
+    - [C# Solution](./G.%20Factorial/main.cs).
+    - [Dart Solution](./G.%20Factorial/main.dart).
 
 ## Solution Approach
 
