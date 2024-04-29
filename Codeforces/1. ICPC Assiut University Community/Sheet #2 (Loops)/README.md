@@ -26,6 +26,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./E.%20Max/main.cpp).
     - [C# Solution](./E.%20Max/main.cs).
     - [Dart Solution](./E.%20Max/main.dart).
+- **Problem 6: [F. Multiplication table](./F.%20Multiplication%20table/)** - This problem deals with understanding taking user input and giving a specific output.
+    - [C++ Solution](./F.%20Multiplication%20table/main.cpp).
+    - [C# Solution](./F.%20Multiplication%20table/main.cs).
+    - [Dart Solution](./F.%20Multiplication%20table/main.dart).
 
 ## Solution Approach
 
