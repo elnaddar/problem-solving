@@ -34,6 +34,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./G.%20Factorial/main.cpp).
     - [C# Solution](./G.%20Factorial/main.cs).
     - [Dart Solution](./G.%20Factorial/main.dart).
+- **Problem 8: [I. Palindrome](./I.%20Palindrome/)** - This problem deals with understanding manipulating integer digits and palindrome.
+    - [C++ Solution](./I.%20Palindrome/main.cpp).
+    - [C# Solution](./I.%20Palindrome/main.cs).
+    - [Dart Solution](./I.%20Palindrome/main.dart).
 
 ## Solution Approach
 
