@@ -38,6 +38,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./I.%20Palindrome/main.cpp).
     - [C# Solution](./I.%20Palindrome/main.cs).
     - [Dart Solution](./I.%20Palindrome/main.dart).
+- **Problem 9: [J. Primes from 1 to n](./J.%20Primes%20from%201%20to%20n/)** - This problem deals with understanding best way to get prime numbers, in c# and dart it deals with how to print without creating new lines.
+    - [C++ Solution](./J.%20Primes%20from%201%20to%20n/main.cpp).
+    - [C# Solution](./J.%20Primes%20from%201%20to%20n/main.cs).
+    - [Dart Solution](./J.%20Primes%20from%201%20to%20n/main.dart).
 
 ## Solution Approach
 
