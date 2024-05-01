@@ -42,6 +42,14 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./J.%20Primes%20from%201%20to%20n/main.cpp).
     - [C# Solution](./J.%20Primes%20from%201%20to%20n/main.cs).
     - [Dart Solution](./J.%20Primes%20from%201%20to%20n/main.dart).
+- **Problem 10: [K. Divisors](./K.%20Divisors/)** - This problem deals with understanding math basics.
+    - [C++ Solution](./K.%20Divisors/main.cpp).
+    - [C# Solution](./K.%20Divisors/main.cs).
+    - [Dart Solution](./K.%20Divisors/main.dart).
+- **Problem 11: [L. GCD](./L.%20GCD/)** - This problem deals with understanding Greatist common divisor.
+    - [C++ Solution](./L.%20GCD/main.cpp).
+    - [C# Solution](./L.%20GCD/main.cs).
+    - [Dart Solution](./L.%20GCD/main.dart).
 
 ## Solution Approach
 
