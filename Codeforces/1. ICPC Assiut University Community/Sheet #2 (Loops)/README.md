@@ -50,6 +50,22 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./L.%20GCD/main.cpp).
     - [C# Solution](./L.%20GCD/main.cs).
     - [Dart Solution](./L.%20GCD/main.dart).
+- **Problem 12: [M. Lucky Numbers](./M.%20Lucky%20Numbers/)** -  - This problem deals with understanding nasted and working with digits.
+    - [C++ Solution](./M.%20Lucky%20Numbers/main.cpp).
+    - [C# Solution](./M.%20Lucky%20Numbers/main.cs).
+    - [Dart Solution](./M.%20Lucky%20Numbers/main.dart).
+- **Problem 13: [N. Numbers Histogram](./N.%20Numbers%20Histogram/)** -  - This problem deals with understanding nasted loop.
+    - [C++ Solution](./N.%20Numbers%20Histogram/main.cpp).
+    - [C# Solution](./N.%20Numbers%20Histogram/main.cs).
+    - [Dart Solution](./N.%20Numbers%20Histogram/main.dart).
+- **Problem 14: [O. Pyramid](./O.%20Pyramid/)** - This problem deals with understanding nasted loop to create triangel with it.
+    - [C++ Solution](./O.%20Pyramid/main.cpp).
+    - [C# Solution](./O.%20Pyramid/main.cs).
+    - [Dart Solution](./O.%20Pyramid/main.dart).
+- **Problem 15: [P. Shape1](./P.%20Shape1/)** - This problem deals with understanding nasted loop to create triangel with it.
+    - [C++ Solution](./P.%20Shape1/main.cpp).
+    - [C# Solution](./P.%20Shape1/main.cs).
+    - [Dart Solution](./P.%20Shape1/main.dart).
 
 ## Solution Approach
 
