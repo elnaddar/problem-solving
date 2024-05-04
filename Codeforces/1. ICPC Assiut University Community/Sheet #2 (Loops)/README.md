@@ -66,6 +66,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./P.%20Shape1/main.cpp).
     - [C# Solution](./P.%20Shape1/main.cs).
     - [Dart Solution](./P.%20Shape1/main.dart).
+- **Problem 16: [Q. Digits](./Q.%20Digits/)** - This problem deals with understanding while and do while loops.
+    - [C++ Solution](./Q.%20Digits/main.cpp).
+    - [C# Solution](./Q.%20Digits/main.cs).
+    - [Dart Solution](./Q.%20Digits/main.dart).
 
 ## Solution Approach
 
