@@ -70,6 +70,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./Q.%20Digits/main.cpp).
     - [C# Solution](./Q.%20Digits/main.cs).
     - [Dart Solution](./Q.%20Digits/main.dart).
+- **Problem 17: [R. Sequence of Numbers and Sum](./R.%20Sequence%20of%20Numbers%20and%20Sum/)** - This problem deals with understanding nasted loops.
+    - [C++ Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cpp).
+    - [C# Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cs).
+    - [Dart Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.dart).
 
 ## Solution Approach
 
