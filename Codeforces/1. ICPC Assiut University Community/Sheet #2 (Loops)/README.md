@@ -74,6 +74,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cpp).
     - [C# Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cs).
     - [Dart Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.dart).
+- **Problem 18: [S. Sum of Consecutive Odd Numbers](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/)** - This problem deals with understanding nasted loops and get sum for a specific range.
+    - [C++ Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cpp).
+    - [C# Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cs).
+    - [Dart Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.dart).
 
 ## Solution Approach
 
