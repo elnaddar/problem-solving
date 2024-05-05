@@ -78,6 +78,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cpp).
     - [C# Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cs).
     - [Dart Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.dart).
+- **Problem 19: [T. Shape2](./T.%20Shape2/)** - This problem deals with understanding nasted loop to create triangel with it.
+    - [C++ Solution](./T.%20Shape2/main.cpp).
+    - [C# Solution](./T.%20Shape2/main.cs).
+    - [Dart Solution](./T.%20Shape2/main.dart).
 
 ## Solution Approach
 
