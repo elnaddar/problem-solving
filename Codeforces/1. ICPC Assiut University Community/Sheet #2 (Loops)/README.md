@@ -82,6 +82,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./T.%20Shape2/main.cpp).
     - [C# Solution](./T.%20Shape2/main.cs).
     - [Dart Solution](./T.%20Shape2/main.dart).
+- **Problem 20: [U. Some Sums](./U.%20Some%20Sums/)** - This problem deals with understanding nasted loops and sum of digits.
+    - [C++ Solution](./U.%20Some%20Sums/main.cpp).
+    - [C# Solution](./U.%20Some%20Sums/main.cs).
+    - [Dart Solution](./U.%20Some%20Sums/main.dart).
 
 ## Solution Approach
 
