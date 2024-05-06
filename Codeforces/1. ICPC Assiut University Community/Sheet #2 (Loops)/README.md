@@ -90,6 +90,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./V.%20PUM/main.cpp).
     - [C# Solution](./V.%20PUM/main.cs).
     - [Dart Solution](./V.%20PUM/main.dart).
+- **Problem 22: [W. Shape3](./W%20Shape3/)** - This problem deals with understanding nasted loop to create a triangel with it.
+    - [C++ Solution](./W%20Shape3/main.cpp).
+    - [C# Solution](./W%20Shape3/main.cs).
+    - [Dart Solution](./W%20Shape3/main.dart).
 
 ## Solution Approach
 
