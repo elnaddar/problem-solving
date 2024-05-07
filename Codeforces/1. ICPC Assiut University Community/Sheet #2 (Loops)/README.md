@@ -94,11 +94,15 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./W%20Shape3/main.cpp).
     - [C# Solution](./W%20Shape3/main.cs).
     - [Dart Solution](./W%20Shape3/main.dart).
+- **Problem 23: [X. Convert To Decimal 2](./X.%20Convert%20To%20Decimal%202/)** - This problem deals with understanding nasted loop, bit operations and converting from decimal to binary and vice-versa.
+    - [C++ Solution](./X.%20Convert%20To%20Decimal%202/main.cpp).
+    - [C# Solution](./X.%20Convert%20To%20Decimal%202/main.cs).
+    - [Dart Solution](./X.%20Convert%20To%20Decimal%202/main.dart).
 - **Problem 24: [Y. Easy Fibonacci](./Y.%20Easy%20Fibonacci/)** - This problem deals with understanding fibonacci.
     - [C++ Solution](./Y.%20Easy%20Fibonacci/main.cpp).
     - [C# Solution](./Y.%20Easy%20Fibonacci/main.cs).
     - [Dart Solution](./Y.%20Easy%20Fibonacci/main.dart).
-- **Problem 24: [Z. Three Numbers](./Z.%20Three%20Numbers/)** - This problem deals with understanding loops and math basics.
+- **Problem 25: [Z. Three Numbers](./Z.%20Three%20Numbers/)** - This problem deals with understanding loops and math basics.
     - [C++ Solution](./Z.%20Three%20Numbers/main.cpp).
     - [C# Solution](./Z.%20Three%20Numbers/main.cs).
     - [Dart Solution](./Z.%20Three%20Numbers/main.dart).
