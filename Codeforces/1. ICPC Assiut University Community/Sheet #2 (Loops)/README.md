@@ -98,6 +98,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./Y.%20Easy%20Fibonacci/main.cpp).
     - [C# Solution](./Y.%20Easy%20Fibonacci/main.cs).
     - [Dart Solution](./Y.%20Easy%20Fibonacci/main.dart).
+- **Problem 24: [Z. Three Numbers](./Z.%20Three%20Numbers/)** - This problem deals with understanding loops and math basics.
+    - [C++ Solution](./Z.%20Three%20Numbers/main.cpp).
+    - [C# Solution](./Z.%20Three%20Numbers/main.cs).
+    - [Dart Solution](./Z.%20Three%20Numbers/main.dart).
 
 ## Solution Approach
 
