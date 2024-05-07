@@ -94,6 +94,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./W%20Shape3/main.cpp).
     - [C# Solution](./W%20Shape3/main.cs).
     - [Dart Solution](./W%20Shape3/main.dart).
+- **Problem 23: [X. Convert To Decimal 2](./X.%20Convert%20To%20Decimal%202/)** - This problem deals with understanding nasted loop, bit operations and converting from decimal to binary and vice-versa.
+    - [C++ Solution](./X.%20Convert%20To%20Decimal%202/main.cpp).
+    - [C# Solution](./X.%20Convert%20To%20Decimal%202/main.cs).
+    - [Dart Solution](./X.%20Convert%20To%20Decimal%202/main.dart).
 
 ## Solution Approach
 
