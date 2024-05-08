@@ -10,8 +10,9 @@ Each sheet focuses on a specific topic or set of topics within competitive progr
 
 - [x] [Sheet #1 (Data type - Conditions)](./Sheet%20%231%20(Data%20type%20-%20Conditions)/) - Focuses on fundamental data types and conditional statements.
 - [x] [Contest #1 (Data type - Conditions)](./Contest%20%231/) - Focuses on fundamental data types and conditional statements.
-- [ ] [Sheet #2 (Loops)](./Sheet%20%232%20(Loops)/) *(In Progress)* - Concentrates on mastering different types of loops and their applications in programming.
+- [x] [Sheet #2 (Loops)](./Sheet%20%232%20(Loops)/) - Concentrates on mastering different types of loops and their applications in programming.
 
+<!-- *(In Progress)*  -->
 ## Using These Solutions
 
 To run the solutions, follow the setup instructions in the main [README.md](/README.md) of the repository which discusses how to use tools like `dotnet-exec` for C# files.
