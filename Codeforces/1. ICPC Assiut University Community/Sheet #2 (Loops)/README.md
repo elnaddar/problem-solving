@@ -34,75 +34,79 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./G.%20Factorial/main.cpp).
     - [C# Solution](./G.%20Factorial/main.cs).
     - [Dart Solution](./G.%20Factorial/main.dart).
-- **Problem 8: [I. Palindrome](./I.%20Palindrome/)** - This problem deals with understanding manipulating integer digits and palindrome.
+- **Problem 8: [H. One Prime](./H.%20One%20Prime/)** - This problem deals with understanding best way to get prime numbers.
+    - [C++ Solution](./H.%20One%20Prime/main.cpp).
+    - [C# Solution](./H.%20One%20Prime/main.cs).
+    - [Dart Solution](./H.%20One%20Prime/main.dart).
+- **Problem 9: [I. Palindrome](./I.%20Palindrome/)** - This problem deals with understanding manipulating integer digits and palindrome.
     - [C++ Solution](./I.%20Palindrome/main.cpp).
     - [C# Solution](./I.%20Palindrome/main.cs).
     - [Dart Solution](./I.%20Palindrome/main.dart).
-- **Problem 9: [J. Primes from 1 to n](./J.%20Primes%20from%201%20to%20n/)** - This problem deals with understanding best way to get prime numbers, in c# and dart it deals with how to print without creating new lines.
+- **Problem 10: [J. Primes from 1 to n](./J.%20Primes%20from%201%20to%20n/)** - This problem deals with understanding best way to get prime numbers, in c# and dart it deals with how to print without creating new lines.
     - [C++ Solution](./J.%20Primes%20from%201%20to%20n/main.cpp).
     - [C# Solution](./J.%20Primes%20from%201%20to%20n/main.cs).
     - [Dart Solution](./J.%20Primes%20from%201%20to%20n/main.dart).
-- **Problem 10: [K. Divisors](./K.%20Divisors/)** - This problem deals with understanding math basics.
+- **Problem 11: [K. Divisors](./K.%20Divisors/)** - This problem deals with understanding math basics.
     - [C++ Solution](./K.%20Divisors/main.cpp).
     - [C# Solution](./K.%20Divisors/main.cs).
     - [Dart Solution](./K.%20Divisors/main.dart).
-- **Problem 11: [L. GCD](./L.%20GCD/)** - This problem deals with understanding Greatist common divisor.
+- **Problem 12: [L. GCD](./L.%20GCD/)** - This problem deals with understanding Greatist common divisor.
     - [C++ Solution](./L.%20GCD/main.cpp).
     - [C# Solution](./L.%20GCD/main.cs).
     - [Dart Solution](./L.%20GCD/main.dart).
-- **Problem 12: [M. Lucky Numbers](./M.%20Lucky%20Numbers/)** -  - This problem deals with understanding nasted and working with digits.
+- **Problem 13: [M. Lucky Numbers](./M.%20Lucky%20Numbers/)** -  - This problem deals with understanding nasted and working with digits.
     - [C++ Solution](./M.%20Lucky%20Numbers/main.cpp).
     - [C# Solution](./M.%20Lucky%20Numbers/main.cs).
     - [Dart Solution](./M.%20Lucky%20Numbers/main.dart).
-- **Problem 13: [N. Numbers Histogram](./N.%20Numbers%20Histogram/)** -  - This problem deals with understanding nasted loop.
+- **Problem 14: [N. Numbers Histogram](./N.%20Numbers%20Histogram/)** -  - This problem deals with understanding nasted loop.
     - [C++ Solution](./N.%20Numbers%20Histogram/main.cpp).
     - [C# Solution](./N.%20Numbers%20Histogram/main.cs).
     - [Dart Solution](./N.%20Numbers%20Histogram/main.dart).
-- **Problem 14: [O. Pyramid](./O.%20Pyramid/)** - This problem deals with understanding nasted loop to create triangel with it.
+- **Problem 15: [O. Pyramid](./O.%20Pyramid/)** - This problem deals with understanding nasted loop to create triangel with it.
     - [C++ Solution](./O.%20Pyramid/main.cpp).
     - [C# Solution](./O.%20Pyramid/main.cs).
     - [Dart Solution](./O.%20Pyramid/main.dart).
-- **Problem 15: [P. Shape1](./P.%20Shape1/)** - This problem deals with understanding nasted loop to create triangel with it.
+- **Problem 16: [P. Shape1](./P.%20Shape1/)** - This problem deals with understanding nasted loop to create triangel with it.
     - [C++ Solution](./P.%20Shape1/main.cpp).
     - [C# Solution](./P.%20Shape1/main.cs).
     - [Dart Solution](./P.%20Shape1/main.dart).
-- **Problem 16: [Q. Digits](./Q.%20Digits/)** - This problem deals with understanding while and do while loops.
+- **Problem 17: [Q. Digits](./Q.%20Digits/)** - This problem deals with understanding while and do while loops.
     - [C++ Solution](./Q.%20Digits/main.cpp).
     - [C# Solution](./Q.%20Digits/main.cs).
     - [Dart Solution](./Q.%20Digits/main.dart).
-- **Problem 17: [R. Sequence of Numbers and Sum](./R.%20Sequence%20of%20Numbers%20and%20Sum/)** - This problem deals with understanding nasted loops.
+- **Problem 18: [R. Sequence of Numbers and Sum](./R.%20Sequence%20of%20Numbers%20and%20Sum/)** - This problem deals with understanding nasted loops.
     - [C++ Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cpp).
     - [C# Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.cs).
     - [Dart Solution](./R.%20Sequence%20of%20Numbers%20and%20Sum/main.dart).
-- **Problem 18: [S. Sum of Consecutive Odd Numbers](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/)** - This problem deals with understanding nasted loops and get sum for a specific range.
+- **Problem 19: [S. Sum of Consecutive Odd Numbers](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/)** - This problem deals with understanding nasted loops and get sum for a specific range.
     - [C++ Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cpp).
     - [C# Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.cs).
     - [Dart Solution](./S.%20Sum%20of%20Consecutive%20Odd%20Numbers/main.dart).
-- **Problem 19: [T. Shape2](./T.%20Shape2/)** - This problem deals with understanding nasted loop to create triangel with it.
+- **Problem 20: [T. Shape2](./T.%20Shape2/)** - This problem deals with understanding nasted loop to create triangel with it.
     - [C++ Solution](./T.%20Shape2/main.cpp).
     - [C# Solution](./T.%20Shape2/main.cs).
     - [Dart Solution](./T.%20Shape2/main.dart).
-- **Problem 20: [U. Some Sums](./U.%20Some%20Sums/)** - This problem deals with understanding nasted loops and sum of digits.
+- **Problem 21: [U. Some Sums](./U.%20Some%20Sums/)** - This problem deals with understanding nasted loops and sum of digits.
     - [C++ Solution](./U.%20Some%20Sums/main.cpp).
     - [C# Solution](./U.%20Some%20Sums/main.cs).
     - [Dart Solution](./U.%20Some%20Sums/main.dart).
-- **Problem 21: [V. PUM](./V.%20PUM/)** - This problem deals with understanding loops and remainder.
+- **Problem 22: [V. PUM](./V.%20PUM/)** - This problem deals with understanding loops and remainder.
     - [C++ Solution](./V.%20PUM/main.cpp).
     - [C# Solution](./V.%20PUM/main.cs).
     - [Dart Solution](./V.%20PUM/main.dart).
-- **Problem 22: [W. Shape3](./W%20Shape3/)** - This problem deals with understanding nasted loop to create a triangel with it.
+- **Problem 23: [W. Shape3](./W%20Shape3/)** - This problem deals with understanding nasted loop to create a triangel with it.
     - [C++ Solution](./W%20Shape3/main.cpp).
     - [C# Solution](./W%20Shape3/main.cs).
     - [Dart Solution](./W%20Shape3/main.dart).
-- **Problem 23: [X. Convert To Decimal 2](./X.%20Convert%20To%20Decimal%202/)** - This problem deals with understanding nasted loop, bit operations and converting from decimal to binary and vice-versa.
+- **Problem 24: [X. Convert To Decimal 2](./X.%20Convert%20To%20Decimal%202/)** - This problem deals with understanding nasted loop, bit operations and converting from decimal to binary and vice-versa.
     - [C++ Solution](./X.%20Convert%20To%20Decimal%202/main.cpp).
     - [C# Solution](./X.%20Convert%20To%20Decimal%202/main.cs).
     - [Dart Solution](./X.%20Convert%20To%20Decimal%202/main.dart).
-- **Problem 24: [Y. Easy Fibonacci](./Y.%20Easy%20Fibonacci/)** - This problem deals with understanding fibonacci.
+- **Problem 25: [Y. Easy Fibonacci](./Y.%20Easy%20Fibonacci/)** - This problem deals with understanding fibonacci.
     - [C++ Solution](./Y.%20Easy%20Fibonacci/main.cpp).
     - [C# Solution](./Y.%20Easy%20Fibonacci/main.cs).
     - [Dart Solution](./Y.%20Easy%20Fibonacci/main.dart).
-- **Problem 25: [Z. Three Numbers](./Z.%20Three%20Numbers/)** - This problem deals with understanding loops and math basics.
+- **Problem 26: [Z. Three Numbers](./Z.%20Three%20Numbers/)** - This problem deals with understanding loops and math basics.
     - [C++ Solution](./Z.%20Three%20Numbers/main.cpp).
     - [C# Solution](./Z.%20Three%20Numbers/main.cs).
     - [Dart Solution](./Z.%20Three%20Numbers/main.dart).
