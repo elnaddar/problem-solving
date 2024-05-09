@@ -10,6 +10,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./A.%20Timon%20and%20Pumbaa/main.cpp).
     - [C# Solution](./A.%20Timon%20and%20Pumbaa/main.cs).
     - [Dart Solution](./A.%20Timon%20and%20Pumbaa/main.dart).
+- **Problem 2: [B. Drawing 'X'](./B.%20Drawing%20'X'/)** - This problem deals with understanding loops to draw x shape.
+    - [C++ Solution](./B.%20Drawing%20'X'/main.cpp).
+    - [C# Solution](./B.%20Drawing%20'X'/main.cs).
+    - [Dart Solution](./B.%20Drawing%20'X'/main.dart).
 
 ## Solution Approach
 
