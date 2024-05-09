@@ -14,6 +14,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./B.%20Drawing%20'X'/main.cpp).
     - [C# Solution](./B.%20Drawing%20'X'/main.cs).
     - [Dart Solution](./B.%20Drawing%20'X'/main.dart).
+- **Problem 3: [C. Finding Minimums](./C.%20Finding%20Minimums/)** - This problem deals with understanding loops and basics of math.
+    - [C++ Solution](./C.%20Finding%20Minimums/main.cpp).
+    - [C# Solution](./C.%20Finding%20Minimums/main.cs).
+    - [Dart Solution](./C.%20Finding%20Minimums/main.dart).
 
 ## Solution Approach
 
