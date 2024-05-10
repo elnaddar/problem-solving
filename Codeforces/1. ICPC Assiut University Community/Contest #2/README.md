@@ -18,6 +18,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./C.%20Finding%20Minimums/main.cpp).
     - [C# Solution](./C.%20Finding%20Minimums/main.cs).
     - [Dart Solution](./C.%20Finding%20Minimums/main.dart).
+- **Problem 4: [D. Range Sum](./D.%20Range%20Sum/)** - This problem deals with understanding basics of math to sum ranged values without loops.
+    - [C++ Solution](./D.%20Range%20Sum/main.cpp).
+    - [C# Solution](./D.%20Range%20Sum/main.cs).
+    - [Dart Solution](./D.%20Range%20Sum/main.dart).
 
 ## Solution Approach
 
