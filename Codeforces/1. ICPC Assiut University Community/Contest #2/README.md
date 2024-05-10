@@ -22,6 +22,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./D.%20Range%20Sum/main.cpp).
     - [C# Solution](./D.%20Range%20Sum/main.cs).
     - [Dart Solution](./D.%20Range%20Sum/main.dart).
+- **Problem 5: [E. Hady Rides the Train](./E.%20Hady%20Rides%20the%20Train/)** - This problem deals with understanding basics of math to calculate rows or columns in snake order.
+    - [C++ Solution](./E.%20Hady%20Rides%20the%20Train/main.cpp).
+    - [C# Solution](./E.%20Hady%20Rides%20the%20Train/main.cs).
+    - [Dart Solution](./E.%20Hady%20Rides%20the%20Train/main.dart).
 
 ## Solution Approach
 
