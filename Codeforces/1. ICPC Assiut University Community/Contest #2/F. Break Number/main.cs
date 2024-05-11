@@ -11,23 +11,26 @@ namespace Codeforces.Assuit.Contest2
     {
         static string cin()
         {
-            StringBuilder input = new();
+            char[] buffer = new char[1024]; // Assuming input won't be longer than 1024 characters
+            int index = 0;
             char ch;
+
             do
             {
                 int readValue = Console.Read();
                 if (readValue == -1) // No more characters are available to read
                     break;
                 ch = (char)readValue;
+
                 if (ch == '\r') // Carriage return might be read before newline on Windows
                     continue;
                 if (ch == '\n' || ch == ' ') // Stop reading on newline or space
                     break;
 
-                input.Append(ch);
-            } while (true);
+                buffer[index++] = ch;
+            } while (index < buffer.Length);
 
-            return input.ToString();
+            return new string(buffer, 0, index);
         }
 
         static uint f(long x)
