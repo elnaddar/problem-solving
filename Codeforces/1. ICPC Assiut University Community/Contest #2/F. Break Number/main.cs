@@ -11,7 +11,7 @@ namespace Codeforces.Assuit.Contest2
     {
         static string cin()
         {
-            char[] buffer = new char[1024]; // Assuming input won't be longer than 1024 characters
+            char[] buffer = new char[19]; // Assuming input won't be longer than 19 characters
             int index = 0;
             char ch;
 
