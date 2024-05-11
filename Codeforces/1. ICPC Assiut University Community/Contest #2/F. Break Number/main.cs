@@ -9,9 +9,9 @@ namespace Codeforces.Assuit.Contest2
 {
     class ProblemF
     {
-        static string cin()
+        static string cin(in byte bufferSize=18)
         {
-            char[] buffer = new char[19]; // Assuming input won't be longer than 19 characters
+            char[] buffer = new char[bufferSize]; // Assuming input won't be longer than 19 characters
             int index = 0;
             char ch;
 
