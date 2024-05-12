@@ -26,10 +26,14 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./E.%20Hady%20Rides%20the%20Train/main.cpp).
     - [C# Solution](./E.%20Hady%20Rides%20the%20Train/main.cs).
     - [Dart Solution](./E.%20Hady%20Rides%20the%20Train/main.dart).
-- **Problem 5: [F. Break Number](./F.%20Break%20Number/)** - This problem deals with understanding loops, and bit manipulation.
+- **Problem 6: [F. Break Number](./F.%20Break%20Number/)** - This problem deals with understanding loops, and bit manipulation.
     - [C++ Solution](./F.%20Break%20Number/main.cpp).
     - [C# Solution](./F.%20Break%20Number/main.cs).
     - [Dart Solution](./F.%20Break%20Number/main.dart).
+- **Problem 7: [G. Construct the Sum](./G.%20Construct%20the%20Sum/)** - This problem deals with understanding loops, and bit manipulation.
+    - [C++ Solution](./G.%20Construct%20the%20Sum/main.cpp).
+    <!-- - [C# Solution](./G.%20Construct%20the%20Sum/main.cs).
+    - [Dart Solution](./G.%20Construct%20the%20Sum/main.dart). -->
 
 ## Solution Approach
 
