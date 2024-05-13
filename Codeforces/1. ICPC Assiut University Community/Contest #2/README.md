@@ -32,8 +32,8 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [Dart Solution](./F.%20Break%20Number/main.dart).
 - **Problem 7: [G. Construct the Sum](./G.%20Construct%20the%20Sum/)** - This problem deals with understanding loops, and bit manipulation.
     - [C++ Solution](./G.%20Construct%20the%20Sum/main.cpp).
-    <!-- - [C# Solution](./G.%20Construct%20the%20Sum/main.cs).
-    - [Dart Solution](./G.%20Construct%20the%20Sum/main.dart). -->
+    - [C# Solution](./G.%20Construct%20the%20Sum/main.cs).
+    - [Dart Solution](./G.%20Construct%20the%20Sum/main.dart).
 
 ## Solution Approach
 
