@@ -3,32 +3,16 @@
 #include <cstdio>
 using namespace std;
 
-long long sum(long long const &l, long long const &r)
-{
-    return (l + r) * (abs(r - l) + 1) / 2;
-}
-
 void getFactors(long long const &n, long long const &s)
 {
-    long long counter = n;
     long long sum = 0;
-    while (counter > 0)
+    for (long long counter = n; counter > 0 && sum != s; counter--)
     {
-        if ((sum + counter) > s)
-        {
-            counter--;
-            continue;
-        }
-        else
+        if ((sum + counter) <= s)
         {
             sum += counter;
+            cout << counter << " ";
         }
-        cout << counter << " ";
-        if (sum == s)
-        {
-            break;
-        }
-        counter--;
     }
     cout << endl;
 }
@@ -40,21 +24,17 @@ int main()
     while (t-- > 0)
     {
         cin >> n >> s;
-        if (s <= n)
+        if ((n * (n + 1) / 2) < s)
         {
-            cout << s - 1 << " " << 1 << endl;
+            cout << -1 << endl;
+        }
+        else if (s <= n)
+        {
+            cout << s << endl;
         }
         else
         {
-            long long sm = sum(1, n);
-            if (sm >= s)
-            {
-                getFactors(n, s);
-            }
-            else
-            {
-                cout << -1 << endl;
-            }
+            getFactors(n, s);
         }
     }
 }
