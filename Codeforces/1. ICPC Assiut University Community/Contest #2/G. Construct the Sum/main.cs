@@ -1,5 +1,6 @@
 using System;
 using static System.Console;
+using System.IO;
 
 ushort t = ushort.Parse(cin(3));
 while (t-- > 0)
@@ -23,15 +24,18 @@ while (t-- > 0)
 void getFactors(uint n, ulong s)
 {
     ulong sum = 0;
-    for (uint counter = n; counter > 0 && sum != s; counter--)
+    StreamWriter writer = new(Console.OpenStandardOutput());
+
+    for (uint counter = n; sum != s && counter > 0; counter--)
     {
         if ((sum + counter) <= s)
         {
             sum += counter;
-            Write("{0} ", counter);
+            writer.Write("{0} ", counter.ToString());
         }
     }
-    WriteLine();
+    writer.WriteLine("");
+    writer.Close();
 }
 
 string cin(in byte bufferSize = 19)
