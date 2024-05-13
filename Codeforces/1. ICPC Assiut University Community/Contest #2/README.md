@@ -34,6 +34,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./G.%20Construct%20the%20Sum/main.cpp).
     - [C# Solution](./G.%20Construct%20the%20Sum/main.cs).
     - [Dart Solution](./G.%20Construct%20the%20Sum/main.dart).
+- **Problem 8: [H. Simple Mod](./H.%20Simple%20Mod/)** - This problem deals with creative solutions.
+    - [C++ Solution](./H.%20Simple%20Mod/main.cpp).
+    - [C# Solution](./H.%20Simple%20Mod/main.cs).
+    - [Dart Solution](./H.%20Simple%20Mod/main.dart).
 
 ## Solution Approach
 
