@@ -10,6 +10,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./A.%20Summation/main.cpp).
     - [C# Solution](./A.%20Summation/main.cs).
     - [Dart Solution](./A.%20Summation/main.dart).
+- **Problem 2: [B. Searching](./B.%20Searching/)** - This problem deals with understanding taking user input for array and searching for a specific input position.
+    - [C++ Solution](./B.%20Searching/main.cpp).
+    - [C# Solution](./B.%20Searching/main.cs).
+    - [Dart Solution](./B.%20Searching/main.dart).
 
 ## Solution Approach
 
