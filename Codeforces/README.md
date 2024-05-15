@@ -13,8 +13,9 @@ Each solution file includes:
 - [ICPC Assiut University Community](./1.%20ICPC%20Assiut%20University%20Community/)
     - [x] [Sheet #1 (Data type - Conditions)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%231%20(Data%20type%20-%20Conditions)/)
     - [x] [Contest #1 (Data type - Conditions)](./1.%20ICPC%20Assiut%20University%20Community/Contest%20%231/)
-    - [x] [Sheet #2 (Loops)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%232%20(Loops)/) - Concentrates on mastering different types of loops and their applications in programming.
-    - [x] [Contest #2 (Loops)](./1.%20ICPC%20Assiut%20University%20Community/Contest%20%232/) - Concentrates on mastering different types of loops and their applications in programming.
+    - [x] [Sheet #2 (Loops)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%232%20(Loops)/)
+    - [x] [Contest #2 (Loops)](./1.%20ICPC%20Assiut%20University%20Community/Contest%20%232/)
+    - [ ] [Sheet #3 (Arrays)](./1.%20ICPC%20Assiut%20University%20Community/Sheet%20%233%20(Arrays)/) *(In Progress)*
 - [A2OJ Ladders](./2.%20A2OJ%20Ladders/)
     - [ ] [Rating < 1300](2.%20A2OJ%20Ladders/1.%20Rating%20LT%201300/) *(In Progress)*
 

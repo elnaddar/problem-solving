@@ -12,6 +12,7 @@ Each sheet focuses on a specific topic or set of topics within competitive progr
 - [x] [Contest #1 (Data type - Conditions)](./Contest%20%231/) - Focuses on fundamental data types and conditional statements.
 - [x] [Sheet #2 (Loops)](./Sheet%20%232%20(Loops)/) - Concentrates on mastering different types of loops and their applications in programming.
 - [x] [Contest #2 (Loops)](./Contest%20%232/) - Concentrates on mastering different types of loops and their applications in programming.
+- [ ] [Sheet #3 (Arrays)](./Sheet%20%233%20(Arrays)/) *(In Progress)* - Concentrates on mastering the use of arrays for storing and manipulating collections of data.
 <!-- *(In Progress)*  -->
 ## Using These Solutions
 
