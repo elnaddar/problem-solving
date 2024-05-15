@@ -18,6 +18,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./C.%20Replacement/main.cpp).
     - [C# Solution](./C.%20Replacement/main.cs).
     - [Dart Solution](./C.%20Replacement/main.dart).
+- **Problem 4: [D. Positions in array](./D.%20Positions%20in%20array/)** - This problem deals with understanding taking user input for array and searching for some elements that meets a specific condition.
+    - [C++ Solution](./D.%20Positions%20in%20array/main.cpp).
+    - [C# Solution](./D.%20Positions%20in%20array/main.cs).
+    - [Dart Solution](./D.%20Positions%20in%20array/main.dart).
 
 ## Solution Approach
 
