@@ -14,6 +14,10 @@ Here is a list of problems from this sheet along with links to their solutions a
     - [C++ Solution](./B.%20Searching/main.cpp).
     - [C# Solution](./B.%20Searching/main.cs).
     - [Dart Solution](./B.%20Searching/main.dart).
+- **Problem 3: [C. Replacement](./C.%20Replacement/)** - This problem deals with understanding taking user input for array and replacing it with other elements.
+    - [C++ Solution](./C.%20Replacement/main.cpp).
+    - [C# Solution](./C.%20Replacement/main.cs).
+    - [Dart Solution](./C.%20Replacement/main.dart).
 
 ## Solution Approach
 
